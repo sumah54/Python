@@ -1,0 +1,30 @@
+body{
+    background-color: silver;
+    font-family: 'Akaya Telivigala', cursive, sans-serif, Arial, Helvetica, 'DotGothic16', sans-serif;
+}
+#Logo{
+    color: white;
+}
+.image{
+    width: 380px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color:yellowgreen;   
+    image-rendering: pixelated; 
+}
+#Contact-Us{
+    border: rgba(26, 85, 134, 0.884);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding:10px;
+    box-shadow: red 10px ;
+
+}
+#details{
+    line-height: 10%;
+}
+.button{
+    color: black;
+    padding: 10px 20px 10px 20px;
+}
