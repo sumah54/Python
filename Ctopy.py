@@ -1,4 +1,4 @@
-'''# 1 sum the following numbers
+# 1 sum the following numbers
 # 2+4+6+8+12+23+14+15+18+31
 print("Question 1")
 u = 2 + 4 + 6 + 8 + 12 + 23 + 14 + 15 + 18 + 31
@@ -165,7 +165,7 @@ elif w > q:
 elif w == q:
 	print("Number are equal.")
 else:
-	print("Unkown relation.")'''
+	print("Unkown relation.")
 
 #13 Write a program to enter integer type data into an array and print it in reverse order
 
