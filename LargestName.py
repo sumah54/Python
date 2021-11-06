@@ -1,7 +1,7 @@
-def Namelen():
+def Namelen(names):
 		num = None
 		nam = None
-		names = ['Ahsan', 'MuhammadAhsanasdfjklasdfjkl','kdjfakljfaklfjakfsajfklfjfjkdsfjldsafjakflajfklsafjaksfjaklfajslfkjalskfjalskdjflaksdjfklasjflaksdjflkasdjflaskdfajalskjflasfjsalfjlasdj','MuhammadAhsanSiddiqui','MuhammadAhsanSiddiquee', 'adfjkl;asdjfl;asdfjahhjkasdfhjkadsflahsdkjfasdhfkladfhkladfhkladfa']
+		names = ['Ahsan', 'MuhammadAhsanasdfjklasdfjkl','dj','MuhammadAhsanSiddiqui','MuhammadAhsanSiddiquee', 'adfjkl;asdjfl;asdfjahhjkasdfhjkadsflahsdkjfasdhfkladfhkladfhkladfa']
 		for name in names:
 			print (name)
 			if num is None or num < len(name):
